@@ -1,0 +1,3 @@
+# Ignora todos los archivos en el directorio target enlos proyectos creados con maven
+
+target/
